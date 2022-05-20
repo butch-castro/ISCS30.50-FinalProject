@@ -79,7 +79,13 @@ namespace GRP11_Castro_Jocson_FinalProject {
     }
 
     private void updateRecordBtn_Click(object sender, EventArgs e) {
-      if (!FieldsAreComplete()) return;
+      if (!FieldsAreComplete() || dataGridView1.SelectedRows.Count < 1) return;
+
+      for (int i = 0; i < textBoxes.Count; ++i) {
+        selectedRow.Cells[i].Value = textBoxes[i].Text;
+      }
+
+      ClearFields();
 
       MessageBox.Show("Record has been updated.", "", MessageBoxButtons.OK);
     }
