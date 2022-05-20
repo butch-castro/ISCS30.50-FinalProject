@@ -1,0 +1,11 @@
+C:\Users\butso\Desktop\School\ISCS3050\ISCS30.50-FinalProject\GRP11-Castro-Jocson-FinalProject\bin\Debug\GRP11-Castro-Jocson-FinalProject.exe.config
+C:\Users\butso\Desktop\School\ISCS3050\ISCS30.50-FinalProject\GRP11-Castro-Jocson-FinalProject\bin\Debug\GRP11-Castro-Jocson-FinalProject.exe
+C:\Users\butso\Desktop\School\ISCS3050\ISCS30.50-FinalProject\GRP11-Castro-Jocson-FinalProject\bin\Debug\GRP11-Castro-Jocson-FinalProject.pdb
+C:\Users\butso\Desktop\School\ISCS3050\ISCS30.50-FinalProject\GRP11-Castro-Jocson-FinalProject\obj\Debug\GRP11-Castro-Jocson-FinalProject.csproj.AssemblyReference.cache
+C:\Users\butso\Desktop\School\ISCS3050\ISCS30.50-FinalProject\GRP11-Castro-Jocson-FinalProject\obj\Debug\GRP11_Castro_Jocson_FinalProject.Form1.resources
+C:\Users\butso\Desktop\School\ISCS3050\ISCS30.50-FinalProject\GRP11-Castro-Jocson-FinalProject\obj\Debug\GRP11_Castro_Jocson_FinalProject.Properties.Resources.resources
+C:\Users\butso\Desktop\School\ISCS3050\ISCS30.50-FinalProject\GRP11-Castro-Jocson-FinalProject\obj\Debug\GRP11-Castro-Jocson-FinalProject.csproj.GenerateResource.cache
+C:\Users\butso\Desktop\School\ISCS3050\ISCS30.50-FinalProject\GRP11-Castro-Jocson-FinalProject\obj\Debug\GRP11-Castro-Jocson-FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\butso\Desktop\School\ISCS3050\ISCS30.50-FinalProject\GRP11-Castro-Jocson-FinalProject\obj\Debug\GRP11-Castro-Jocson-FinalProject.exe
+C:\Users\butso\Desktop\School\ISCS3050\ISCS30.50-FinalProject\GRP11-Castro-Jocson-FinalProject\obj\Debug\GRP11-Castro-Jocson-FinalProject.pdb
+C:\Users\butso\Desktop\School\ISCS3050\ISCS30.50-FinalProject\GRP11-Castro-Jocson-FinalProject\obj\Debug\GRP11_Castro_Jocson_FinalProject.Form2.resources
