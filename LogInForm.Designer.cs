@@ -1,7 +1,7 @@
 ﻿
 namespace GRP11_Castro_Jocson_FinalProject
 {
-    partial class Form1
+    partial class LogInForm
     {
         /// <summary>
         /// Required designer variable.

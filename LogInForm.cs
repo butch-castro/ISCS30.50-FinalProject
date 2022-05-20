@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace GRP11_Castro_Jocson_FinalProject
 {
-    public partial class Form1 : Form
+    public partial class LogInForm : Form
     {
-        public Form1()
+        public LogInForm()
         {
             InitializeComponent();
         }
@@ -27,8 +27,7 @@ namespace GRP11_Castro_Jocson_FinalProject
             if (usernameTextBox.Text == "mine" && passwordTextBox.Text == "craft")
             {
                 MessageBox.Show("Log In Successful!", "Log In Success", MessageBoxButtons.OK);
-                Form2 mainWindow = new Form2();
-                mainWindow.setCurrentTime();
+                MainWindow mainWindow = new MainWindow();
                 mainWindow.setUsername(usernameTextBox.Text);
                 mainWindow.ShowDialog();
             }

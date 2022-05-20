@@ -9,3 +9,14 @@ C:\Users\butso\Desktop\School\ISCS3050\ISCS30.50-FinalProject\GRP11-Castro-Jocso
 C:\Users\butso\Desktop\School\ISCS3050\ISCS30.50-FinalProject\GRP11-Castro-Jocson-FinalProject\obj\Debug\GRP11-Castro-Jocson-FinalProject.exe
 C:\Users\butso\Desktop\School\ISCS3050\ISCS30.50-FinalProject\GRP11-Castro-Jocson-FinalProject\obj\Debug\GRP11-Castro-Jocson-FinalProject.pdb
 C:\Users\butso\Desktop\School\ISCS3050\ISCS30.50-FinalProject\GRP11-Castro-Jocson-FinalProject\obj\Debug\GRP11_Castro_Jocson_FinalProject.Form2.resources
+A:\AAA\SEM8\ISCS30.50\Final Project - DataGridView Version of Long Exercise 1\ISCS30.50-FinalProject\bin\Debug\GRP11-Castro-Jocson-FinalProject.exe.config
+A:\AAA\SEM8\ISCS30.50\Final Project - DataGridView Version of Long Exercise 1\ISCS30.50-FinalProject\bin\Debug\GRP11-Castro-Jocson-FinalProject.exe
+A:\AAA\SEM8\ISCS30.50\Final Project - DataGridView Version of Long Exercise 1\ISCS30.50-FinalProject\bin\Debug\GRP11-Castro-Jocson-FinalProject.pdb
+A:\AAA\SEM8\ISCS30.50\Final Project - DataGridView Version of Long Exercise 1\ISCS30.50-FinalProject\obj\Debug\GRP11-Castro-Jocson-FinalProject.csprojAssemblyReference.cache
+A:\AAA\SEM8\ISCS30.50\Final Project - DataGridView Version of Long Exercise 1\ISCS30.50-FinalProject\obj\Debug\GRP11_Castro_Jocson_FinalProject.LogInForm.resources
+A:\AAA\SEM8\ISCS30.50\Final Project - DataGridView Version of Long Exercise 1\ISCS30.50-FinalProject\obj\Debug\GRP11_Castro_Jocson_FinalProject.MainWindow.resources
+A:\AAA\SEM8\ISCS30.50\Final Project - DataGridView Version of Long Exercise 1\ISCS30.50-FinalProject\obj\Debug\GRP11_Castro_Jocson_FinalProject.Properties.Resources.resources
+A:\AAA\SEM8\ISCS30.50\Final Project - DataGridView Version of Long Exercise 1\ISCS30.50-FinalProject\obj\Debug\GRP11-Castro-Jocson-FinalProject.csproj.GenerateResource.cache
+A:\AAA\SEM8\ISCS30.50\Final Project - DataGridView Version of Long Exercise 1\ISCS30.50-FinalProject\obj\Debug\GRP11-Castro-Jocson-FinalProject.csproj.CoreCompileInputs.cache
+A:\AAA\SEM8\ISCS30.50\Final Project - DataGridView Version of Long Exercise 1\ISCS30.50-FinalProject\obj\Debug\GRP11-Castro-Jocson-FinalProject.exe
+A:\AAA\SEM8\ISCS30.50\Final Project - DataGridView Version of Long Exercise 1\ISCS30.50-FinalProject\obj\Debug\GRP11-Castro-Jocson-FinalProject.pdb
