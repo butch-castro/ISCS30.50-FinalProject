@@ -103,7 +103,7 @@ namespace GRP11_Castro_Jocson_FinalProject
       this.clearFieldBtn.Name = "clearFieldBtn";
       this.clearFieldBtn.Size = new System.Drawing.Size(112, 40);
       this.clearFieldBtn.TabIndex = 17;
-      this.clearFieldBtn.Text = "Clear Field";
+      this.clearFieldBtn.Text = "Clear Fields";
       this.clearFieldBtn.UseVisualStyleBackColor = true;
       this.clearFieldBtn.Click += new System.EventHandler(this.clearFieldBtn_Click);
       // 
@@ -294,12 +294,17 @@ namespace GRP11_Castro_Jocson_FinalProject
       // 
       // dataGridView1
       // 
+      this.dataGridView1.AllowUserToAddRows = false;
+      this.dataGridView1.AllowUserToDeleteRows = false;
       this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
       this.dataGridView1.Location = new System.Drawing.Point(12, 44);
+      this.dataGridView1.MultiSelect = false;
       this.dataGridView1.Name = "dataGridView1";
+      this.dataGridView1.ReadOnly = true;
+      this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
       this.dataGridView1.Size = new System.Drawing.Size(720, 377);
       this.dataGridView1.TabIndex = 5;
-      this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
+      this.dataGridView1.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellDoubleClick);
       // 
       // MainWindow
       // 
